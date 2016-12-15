@@ -3,3 +3,11 @@
 	
 2. How is the staging area different from the working directory and the repository? What value do you think it offers?
 	Staging area might not contain all the files in the working directory and in the repository. The value it offers you is that not all the files may be part of the same commit, since locigally they are different.
+
+3. How can you use the staging area to make sure you have one commit per logical change?
+	By only adding the files that are part of the commit. If you change other files that are not part of the logical change then they do not have to be in the staging area.
+
+4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	They make it easier by giving a simple name to a particular build of the program. It makes it easier to experiment and still keep a running program fixed.
+
+
