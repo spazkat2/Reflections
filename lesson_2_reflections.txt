@@ -12,3 +12,7 @@
 
 5. How do the diagrams help you visualize the branch structure?
 	It shows where the commits where the branches spilt and the flow of each branch.
+
+6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	You get the code from both branches in one file. It represent that way because the pervious commits from each branch is still available.
+
