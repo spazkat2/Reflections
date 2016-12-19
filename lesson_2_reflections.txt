@@ -15,4 +15,5 @@
 
 6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 	You get the code from both branches in one file. It represent that way because the pervious commits from each branch is still available.
-
+7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	A pro of automatic merging means different functions get put in really fast without any thought. However a con of this is if it is the same function being different in each, which do you keep. With manual mergeing you know which to keep, but it takes more time.
