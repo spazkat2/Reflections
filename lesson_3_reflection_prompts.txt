@@ -11,3 +11,8 @@
 
 4. What is the benefit of having a copy of the last known state of the remote stored locally?
 	So you can compare them and make adjustments if they do not merge nicely.
+
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+	I would something like google drive/docs. It would be hard in that you can not experiment the same way with branches. It would be easier in that all your changes are saved automatically.
+
+
