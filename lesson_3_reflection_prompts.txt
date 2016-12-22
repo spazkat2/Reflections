@@ -15,4 +15,5 @@
 5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 	I would something like google drive/docs. It would be hard in that you can not experiment the same way with branches. It would be easier in that all your changes are saved automatically.
 
-
+6. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+	You would do this when you are not sure that your change will work right. This is nice in that you have master always working right while the other branches might not. However this can be confusing to find the branch where you want to make a change.
